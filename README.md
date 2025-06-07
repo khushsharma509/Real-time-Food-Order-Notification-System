@@ -1,2 +1,1 @@
-# Real-time-Food-Order-Notification-System
-Real-time Food Order Notification System
+# spring-boot-websocket
